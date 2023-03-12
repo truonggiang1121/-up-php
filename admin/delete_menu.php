@@ -1,3 +1,4 @@
+MInh Duy*
 <?php
 include("../connection/connect.php");
 error_reporting(0);

@@ -1,3 +1,4 @@
+Luong Quoc Hao*
 <?php
 include("connection/connect.php"); //connection to db
 error_reporting(0);

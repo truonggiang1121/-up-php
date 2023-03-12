@@ -1,3 +1,4 @@
+Truong Giang*
 <?php
 session_start(); 
 session_destroy(); 
